@@ -1,0 +1,53 @@
+body {
+
+	font-family: 'Source Sans Pro', sans-serif;
+	 width: 800px;
+	 max-width: 80%;
+     margin: 20px auto; 
+     border: 20px solid #bdc3c7;
+    /
+    }
+
+
+.heading {
+
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	font-weight: 600;
+	margin-left: 5%;	
+}
+
+
+
+	.article {
+
+		color: #2c3e50;
+		font-size: 30px;
+		margin-left: 5%;	
+
+	}
+
+	.leftBorder {
+		border-color: #bdc3c7;
+		border-left: 6px solid #bdc3c7;
+		padding-left: 10px;
+
+}
+	
+p {
+
+	margin: 5%;	
+	letter-spacing: 1.5px;
+}
+
+
+
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+   }
+
